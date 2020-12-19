@@ -52,13 +52,10 @@ p {
 }
 
 /*I changed this tag to figure to better communicate what the code was when another developer was looking at it.*/
+/*I deleted the height, background-image, background-size, and background-position parameters that were in this image selector as I put the url into my figure tag in html file.*/
 figure {
-    /* height: 800px; */
     width: 100%;
     margin-bottom: 25px;
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
-    /* background-size: cover; */
-    /* background-position: center; */
 }
 
 figure img {
@@ -98,7 +95,6 @@ aside {
 }
 
 /*I changed the tags to aside so as to strealine the code and more readily communicate what this part of the webpage is.*/
-
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
