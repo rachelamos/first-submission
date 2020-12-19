@@ -21,7 +21,12 @@ My hope is that not only does the functionality of the website after my edits ca
 
 ---
 
+## Contributers
+
+- Rachel Amos
+
 ## License & copyright
 
-
+© Rachel Amos
+Licensed under the [MIT License](LICENSE).
 
