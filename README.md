@@ -17,7 +17,7 @@ My hope is that not only does the functionality of the website after my edits ca
 
 ![Screenshot](images/screencapture-completed-project.png)
 
-[Link to Application](file:///Users/rachelamos/code/UTA-AUS-FSF-PT-12-2020-U-C/01-HTML-Git-CSS/02-Homework/Develop/index.html)
+[Link to Application](https://rachelamos.github.io/first-submission/)
 
 ---
 
