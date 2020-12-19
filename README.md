@@ -15,7 +15,7 @@ My hope is that not only does the functionality of the website after my edits ca
 
 [Demo of My Page](https://drive.google.com/file/d/17n_1Ie9dg9moTJ1OxZ4_u5FgVAKsnfWm/view)
 
-![Screenshot](images/screencapture-completed-project.png)
+![screencapture-completed-project](https://user-images.githubusercontent.com/75390519/102692797-5c78dc80-41db-11eb-805e-14ddd9721768.png)
 
 [Link to Application](https://rachelamos.github.io/first-submission/)
 
